@@ -62,6 +62,6 @@ print(voltear(lista))
 
 #ejercicio4
 #1-a
-#2-c
-#3-d
+#2-d
+#3-c
 #4-b
